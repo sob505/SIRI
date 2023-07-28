@@ -1,0 +1,12 @@
+h,0.1
+x0,[ 95 100]
+s0,[5 0]
+r0,[0 0]
+gammas,[0.05 0.05]
+p,0.2252
+numsteps,100
+beta,[1 1 1 1]
+Ns,[100 100]
+tsrange,[20 20]
+lockdownlen,[50 50]
+resolution,1
